@@ -18,4 +18,5 @@ What was done:
 - Links are fully functioning
 - Alt titles were given to non-decorative images
 - Combined CSS and changed HTML class names to eliminate copied code
-- 
+- HTML content div class named "SOS" for "Search, Online, Social"
+- HTML benefits div class named "LBC" for "Lead, Brand, Cost"
