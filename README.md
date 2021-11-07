@@ -1,5 +1,8 @@
 # Horizon
 
+Name: Cory Thompson
+Date: 11/07/2021
+
 Project Story:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
