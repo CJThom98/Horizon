@@ -13,3 +13,5 @@ Project Objectives:
 What was done:
 - HTML Elements were changed to reflect their purpose, i.e header div changed to "header," navigation div changed to "nav"
 - CSS and HTML files were given comments to separate each section
+- Unnecessary CSS selectors were removed
+- In CSS, the "Content Style" and "Benefits Style" were swapped to better reflect the organization of the code in HTML
