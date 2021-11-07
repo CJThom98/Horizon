@@ -15,3 +15,5 @@ What was done:
 - CSS and HTML files were given comments to separate each section
 - Unnecessary CSS selectors were removed
 - In CSS, the "Content Style" and "Benefits Style" were swapped to better reflect the organization of the code in HTML
+- Links are fully functioning
+- Alt titles were given to non-decorative images
