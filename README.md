@@ -17,3 +17,5 @@ What was done:
 - In CSS, the "Content Style" and "Benefits Style" were swapped to better reflect the organization of the code in HTML
 - Links are fully functioning
 - Alt titles were given to non-decorative images
+- Combined CSS to eliminate copied code
+- 
