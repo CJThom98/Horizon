@@ -11,3 +11,5 @@ Project Objectives:
 - Clean up the CSS to make it more efficient
 
 What was done:
+- HTML Elements were changed to reflect their purpose, i.e header div changed to "header," navigation div changed to "nav"
+- CSS and HTML files were given comments to separate each section
